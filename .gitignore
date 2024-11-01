@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+ibm-credentials.txt
+
 # C extensions
 *.so
 
